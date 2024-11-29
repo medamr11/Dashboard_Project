@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@mui/x-charts": "^7.22.3",
+    "@mui/x-date-pickers": "^7.22.3",
+    "chart.js": "^4.4.6",
+    "dayjs": "^1.11.13",
+    "react-chart": "^0.0.1",
+    "react-chartjs-2": "^5.2.0",
+    "recharts": "^2.13.3"
+  }
+}
